@@ -18,4 +18,10 @@ use Symfony\Component\VarDumper\Cloner\Data;
 Route::get('/', function () {
   $data = ["title" => "Hello World"];
   return view('home',$data);
-});
+})->name('home');
+Route::get('/services', function () {
+  return view('services');
+})->name('services');
+Route::get('/contacts', function () {
+  return view('contacts');
+})->name('contacts');

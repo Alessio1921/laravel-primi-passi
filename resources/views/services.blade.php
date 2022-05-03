@@ -70,7 +70,7 @@
     </header>
     <div class="content">
       <div class="title m-b-md">
-          <h1>{{$title}}</h1>
+          <h1>Servizi</h1>
       </div>
   </body>
 </html>

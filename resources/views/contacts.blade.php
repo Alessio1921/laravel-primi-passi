@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;600&display=swap" rel="stylesheet">
-    <title>Laravel Primi Passi</title>
+    <title>Contatti</title>
     <style>
       html, body {
         background-color: #fff;
@@ -70,7 +70,7 @@
     </header>
     <div class="content">
       <div class="title m-b-md">
-          <h1>{{$title}}</h1>
+          <h1>Contatti</h1>
       </div>
   </body>
 </html>
