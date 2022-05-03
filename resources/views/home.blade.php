@@ -8,40 +8,40 @@
     <title>Laravel Primi Passi</title>
     <style>
       html, body {
-          background-color: #fff;
-          color: #636b6f;
-          font-family: 'Nunito', sans-serif;
-          font-weight: 200;
-          height: 100vh;
-          margin: 0;
+        background-color: #fff;
+        color: #636b6f;
+        font-family: 'Nunito', sans-serif;
+        font-weight: 200;
+        height: 100vh;
+        margin: 0;
       }
 
       .full-height {
-          height: 100vh;
+        height: 100vh;
       }
 
       .flex-center {
-          align-items: center;
-          display: flex;
-          justify-content: center;
+        align-items: center;
+        display: flex;
+        justify-content: center;
       }
 
       .position-ref {
-          position: relative;
+        position: relative;
       }
 
       .top-right {
-          position: absolute;
-          right: 10px;
-          top: 18px;
+        position: absolute;
+        right: 10px;
+        top: 18px;
       }
 
       .content {
-          text-align: center;
+        text-align: center;
       }
 
       .title {
-          font-size: 84px;
+        font-size: 84px;
       }
 
       .links > a {
@@ -57,7 +57,7 @@
       .m-b-md {
           margin-bottom: 30px;
       }
-  </style>
+    </style>
   </head>
   <body>
     <div class="content">
