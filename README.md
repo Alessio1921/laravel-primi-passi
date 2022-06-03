@@ -1,3 +1,9 @@
+Description:
+
+I created a show function for each comic.
+
+The comic data is taken from the comics.php file in the config folder.
+
 <img width="1440" alt="Schermata 2022-06-03 alle 16 17 03" src="https://user-images.githubusercontent.com/95136261/171873258-42906967-856d-47ee-9688-2b49e9415c39.png">
 <img width="1440" alt="Schermata 2022-06-03 alle 16 17 11" src="https://user-images.githubusercontent.com/95136261/171873390-a4c7089d-39fe-4435-aa72-538a92aa42ce.png">
 <img width="1440" alt="Schermata 2022-06-03 alle 16 17 56" src="https://user-images.githubusercontent.com/95136261/171873412-ad216200-b218-4ad6-b74c-ce9643ef4799.png">
